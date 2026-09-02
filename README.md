@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**Kruti3101/Kruti3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 🔐 About Me
-
+-----------------------------------------------------------------------
 Cybersecurity Engineer | Detection Engineering | SIEM | Cloud Security
 
 I'm a cybersecurity professional with 4+ years of enterprise
