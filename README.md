@@ -36,7 +36,8 @@ I'm a cybersecurity professional with 4+ years of enterprise cybersecurity exper
 • Linux & Networking  
 
 ### ⚡ Fun fact
-• I enjoy building cybersecurity tools and automating repetitive security tasks 🚀
+
+My favorite question is, “How would an attacker approach this?”
 
 ---
 
