@@ -70,18 +70,3 @@ I'm a cybersecurity professional with 4+ years of enterprise cybersecurity exper
 
 ![](https://streak-stats.demolab.com/?user=Kruti3101&theme=dark&hide_border=false)
 
----
-
-# 👩‍💻 Cybersecurity Focus:
-
-```text
-SIEM Engineering
-Detection Engineering
-SOC Operations
-Threat Detection
-Incident Response
-Security Analytics
-Vulnerability Management
-Cloud Security
-Security Automation
-Threat Intelligence
