@@ -1,7 +1,5 @@
 # 🔐 About Me:
 
-Cybersecurity Engineer | Detection Engineering | SIEM | Cloud Security
-
 I'm a cybersecurity professional with 4+ years of enterprise cybersecurity experience at IBM.
 
 ### 🛡️ I'm currently working on
