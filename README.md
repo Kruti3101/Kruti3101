@@ -41,12 +41,6 @@ My favorite question is, “How would an attacker approach this?”
 
 ---
 
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutika-jagdale/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krutikarajeshjagdale@gmail.com)
----
-
 # 🖥️ Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
