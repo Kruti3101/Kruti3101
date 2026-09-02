@@ -66,14 +66,6 @@ I'm a cybersecurity professional with 4+ years of enterprise cybersecurity exper
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Kruti3101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kruti3101&theme=dark&hide_border=false&layout=compact)
-
----
-
 # 🔥 GitHub Streak:
 
 ![](https://streak-stats.demolab.com/?user=Kruti3101&theme=dark&hide_border=false)
