@@ -42,8 +42,8 @@ I'm a cybersecurity professional with 4+ years of enterprise cybersecurity exper
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kruti3101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://github.com/Kruti3101))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krutikarajeshjagdale@gmail.com)
 
 ---
 
@@ -69,34 +69,6 @@ I'm a cybersecurity professional with 4+ years of enterprise cybersecurity exper
 # 🔥 GitHub Streak:
 
 ![](https://streak-stats.demolab.com/?user=Kruti3101&theme=dark&hide_border=false)
-
----
-
-# 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=Kruti3101&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-# 🚀 Featured Cybersecurity Projects:
-
-### 🛡️ ThreatSight
-Automated threat intelligence and detection engineering toolkit for generating security detections and mapping threats to MITRE ATT&CK.
-
-### 🔎 HuntOps
-Security hunting and investigation utilities designed to support threat detection and SOC workflows.
-
-### 🤖 AutoSOC
-Automation-focused cybersecurity project for streamlining SOC operations and repetitive security tasks.
-
-### 🔐 SplunkHunt
-Threat hunting utilities and detection workflows built around Splunk.
-
-### ☁️ NetAutomate
-Network and security automation tools using Python.
-
-### 🧠 ThreatML
-Machine-learning focused cybersecurity project exploring threat detection and security analytics.
 
 ---
 
