@@ -42,9 +42,8 @@ I'm a cybersecurity professional with 4+ years of enterprise cybersecurity exper
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://github.com/Kruti3101))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutika-jagdale/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krutikarajeshjagdale@gmail.com)
-
 ---
 
 # 🖥️ Tech Stack:
